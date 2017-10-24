@@ -12,3 +12,5 @@ just type
 ```
 
 Enjoy!
+
+P.S If not work, please new a another termial for use
